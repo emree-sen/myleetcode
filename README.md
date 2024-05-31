@@ -1,25 +1,5 @@
-# 🚀 LeetCode Adventure
+[![Leetcode Stats](https://leetcard.jacoblin.cool/BaturKutay?theme=unicorn)](https://leetcode.com/Vointelph/)
 
-Welcome to my LeetCode Adventure repository! Here, you'll find my solutions to various LeetCode problems as I embark on a quest to conquer coding challenges and level up my problem-solving skills. Whether you're here to get some inspiration, learn, or just curious, I hope you find this journey as exciting as I do!
-
-## Table of Contents
-
-- [About](#about)
-- [Problems & Solutions](#problems--solutions)
-
-## About
-
-LeetCode is a platform for preparing technical coding interviews, and it also provides a fun way to improve your coding skills. This repository is my personal collection of LeetCode solutions, where you'll find a mix of easy, medium, and hard problems tackled in various programming languages.
-
-## Problems & Solutions
-
-Each problem is organized in its own folder with the following structure:
-
-
-Elbette, işte eğlenceli ve bilgilendirici bir README dosyası için bir öneri:
-
-markdown
-Kodu kopyala
 # 🚀 LeetCode Adventure
 
 Welcome to my LeetCode Adventure repository! Here, you'll find my solutions to various LeetCode problems as I embark on a quest to conquer coding challenges and level up my problem-solving skills. Whether you're here to get some inspiration, learn, or just curious, I hope you find this journey as exciting as I do!
