@@ -1,4 +1,4 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/BaturKutay?theme=unicorn)](https://leetcode.com/Vointelph/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Vointelph?theme=unicorn)](https://leetcode.com/Vointelph/)
 
 # 🚀 LeetCode Adventure
 
